@@ -21,8 +21,7 @@ A privacy-focused social networking app currently under development.  Features a
 This app is still in development and contains original UX concepts that I’d like to keep confidential until I release. No source code or full demo is available yet, unless I hand you my laptop & phone. 
 
 ## Peace,
-
-## Mk
+Mk
 
 ## Website
 [graispect.com](https://graispect.com)
