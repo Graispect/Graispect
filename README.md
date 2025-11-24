@@ -1,30 +1,37 @@
-## Hello,
+## maha (mk)
 
-# Graispect – iOS App (In Development)
+my name isn’t mk.  
+it’s maha. mk is just the part of me that builds the things i wish existed, .
+i saw post once that said *“create what you wish existed.”*  
+i did. and i never looked back. i'll never look back.
 
-A privacy-focused social networking app currently under development.  Features are DIFFERENT from the usual social networks applications and websites. This project reflects my design thinking, development skills, and need of an app to showcase my art, my poetry, and an app people can use on the daily without mind melting or doom scrolling.
+my 9–5: software engineer.  
+my 5–9: i design my gray views.
 
-## What I Worked On
-- Designed the user interface using Figma
-- Designed the icons using Procreate
-- Built the app using SwiftUI in Xcode
-- Created custom icons and interaction flows
-- Came up with different ways people can share their creativity.
-- Designed and deployed the app’s landing page (HTML, CSS, JavaScript)
+i build personal, privacy-minded apps with my own icons, my own filters,  
+my own rules. all lowercase. pure black backgrounds. vt323 on purpose, retro aura. (the internet looked better before i existed and i wish i was there when dial-up existed.)
 
-## Tools & Languages
-- SwiftUI, Xcode  
-- HTML, CSS, JavaScript  
-- Figma, Procreate
+### graispect  
+a private, friends-only social app.  
+no explore pages. no strangers. no algorithms.  
+just a mundane app, glimpses, moods, thoughts, tunes, maybe even silence, but for sure safe circles.  
+built slowly, intentionally, and with a lot of refusal.
 
-## Why It’s Private
-This app is still in development and contains original UX concepts that I’d like to keep confidential until I release. No source code or full demo is available yet, unless I hand you my laptop & phone. 
+### mk’s cams (by graispect)  
+an ios film camera with seeded filters, custom lenses,  
+glitch overlays, and a disposable-camera feel.  
+every icon hand-drawn, every frame processed through my own pipeline.
 
+### what i make  
+- minimal interfaces  
+- glitch aesthetics  
+- custom procreate icons  
+- film-camera filters & core image pipelines  
+- quiet, privacy-first spaces
 
+### elsewhere  
+graispect.com  
+graispect@graispect.com
 
-
-Peace,
-Mk
-
-## Website
-[graispect.com](https://graispect.com)
+peace,  
+mk
