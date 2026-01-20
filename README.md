@@ -1,12 +1,7 @@
 ## maha (mk) (((also known as graispect)))
 
-my name isn’t mk.  
-it’s maha. mk is just the part of me that builds the things i wish existed, .
 i saw post once that said *“create what you wish existed.”*  
 i did. and i never looked back. i'll never look back.
-
-my 9–5: software engineer.  
-my 5–9: i design my gray views.
 
 i build personal, privacy-minded apps with my own icons, my own filters,  
 my own rules. all lowercase. pure black backgrounds. vt323 on purpose, retro aura. (the internet looked better before i existed and i wish i was there when dial-up existed.)
@@ -22,6 +17,19 @@ an ios film camera with seeded filters, custom lenses,
 glitch overlays, and a disposable-camera feel.  
 every icon hand-drawn, every frame processed through my own pipeline.
 
+### to n from mk (by graispect)
+a letter-writing experience.
+you answer cryptically.
+it writes what you couldn’t finish saying.
+
+not a notes app.
+
+built to explore intention, tone, and structure
+without saving your words or feeding algorithms.
+letters are generated, felt, and released.
+
+designed, written, and engineered end-to-end.
+
 ### what i make  
 - minimal interfaces  
 - glitch aesthetics  
@@ -32,6 +40,16 @@ every icon hand-drawn, every frame processed through my own pipeline.
 ### elsewhere  
 graispect.com  
 graispect@graispect.com
+mk@graispect.com
+
+### links
+app store: 
+https://apps.apple.com/us/app/graispect/id6754794501
+https://apps.apple.com/us/app/mks-cams/id6755384547
+website: https://graispect.com
+privacy: https://graispect.com/privacy
+terms: https://graispect.com/terms
+support: https://graispect.com/support
 
 peace,  
 mk
