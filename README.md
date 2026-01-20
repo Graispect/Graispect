@@ -39,13 +39,26 @@ designed, written, and engineered end-to-end.
 
 ### links  
 app store: 
+
 https://apps.apple.com/us/app/graispect/id6754794501
+
 https://apps.apple.com/us/app/mks-cams/id6755384547
 
-website: https://graispect.com
-privacy: https://graispect.com/privacy
-terms: https://graispect.com/terms
-support: https://graispect.com/support
+website: 
+
+https://graispect.com
+
+privacy: 
+
+https://graispect.com/privacy
+
+terms: 
+
+https://graispect.com/terms
+support: 
+
+https://graispect.com/support
+
 
 ### elsewhere  
 graispect.com  
