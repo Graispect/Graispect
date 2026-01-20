@@ -37,7 +37,10 @@ designed, written, and engineered end-to-end.
 - film-camera filters & core image pipelines  
 - quiet, privacy-first spaces
 
+
+
 ### links  
+
 app store: 
 
 https://apps.apple.com/us/app/graispect/id6754794501
@@ -55,15 +58,18 @@ https://graispect.com/privacy
 terms: 
 
 https://graispect.com/terms
+
 support: 
 
 https://graispect.com/support
+
 
 
 ### elsewhere  
 graispect.com  
 graispect@graispect.com
 mk@graispect.com
+
 
 peace,  
 mk
